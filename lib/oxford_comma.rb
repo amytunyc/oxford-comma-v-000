@@ -1,3 +1,4 @@
 def oxford_comma(array)
-  case array.validates_length_o
+  case array.length 
+  
 end
